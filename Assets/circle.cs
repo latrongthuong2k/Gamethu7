@@ -2,24 +2,25 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Change : MonoBehaviour
+public class circle : MonoBehaviour
 {
     public GameObject obj;
     public Vector3 spawnPos = new Vector3(25, 0, 0);
-    public float Speed = 10;
 
-    private float pos = 2;
+
+    public float Pos = 2;
+
     private float Out = 2;
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
-       InvokeRepeating(nameof(Check),pos, Out );
+        InvokeRepeating(nameof(Check),Pos, Out );
     }
 
     // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        
+       
     }
 
     private void Check()
