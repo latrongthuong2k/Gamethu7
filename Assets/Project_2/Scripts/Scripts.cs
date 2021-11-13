@@ -10,7 +10,7 @@ public class Scripts : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       
+       Invote
     }
 
     // Update is called once per frame
