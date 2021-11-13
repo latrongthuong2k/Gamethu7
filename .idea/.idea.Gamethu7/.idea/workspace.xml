@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b5005d-c425-4bf8-ac58-c4f359b821d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Gamethu7/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Gamethu7/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Gamethu7/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Gamethu7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/circle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/circle.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project_2/ScenarioScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project_2/ScenarioScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project_2/Scripts/Scripts.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project_2/Scripts/Scripts.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gamethu7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gamethu7/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636766964479</updated>
-      <workItem from="1636766972180" duration="2623000" />
+      <workItem from="1636766972180" duration="3380000" />
     </task>
     <servers />
   </component>
